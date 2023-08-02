@@ -1,5 +1,5 @@
 #sample calculator
-a=int(input())
+a=int(input("Enter the number: "))
 b=int(input())
 character=input()
 if character=='+' :
